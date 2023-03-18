@@ -1,5 +1,8 @@
 # Challenge-Conversor
-Conversor de moneda y temperatura
+ <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+Conversor de moneda y temperatura.
 
 En esta oportunidad, el challenge consistio en crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas fueron las siguientes:
 
