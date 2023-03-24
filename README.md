@@ -1,6 +1,6 @@
 # Proyecto-Conversor
  <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
    </p>
 
 
