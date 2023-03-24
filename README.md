@@ -4,11 +4,11 @@
    </p>
 
 
-# Descripcion Proyecto.
+## :paperclip: Descripcion Proyecto.
 
 En esta oportunidad, el Challenge ONE Back-End de Alura Latam consistio en crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas fueron las siguientes:
 
-Requisitos:
+:pushpin: Requisitos:
 - El convertidor de moneda debe:
 
        - Convertir de la moneda de tu país a Dólar
@@ -17,16 +17,16 @@ Requisitos:
        - Convertir de la moneda de tu país  a Yen Japonés
        - Convertir de la moneda de tu país  a Won sul-coreano
            
-Extras:
+:pushpin: Extras:
 Como desafío extra solicitaron a añadir al proyecto otros tipos de conversiones.
 
-# Funcionalidades:
+## :wrench: Funcionalidades:
 
-- General:
+- :flags: General:
 
        - Escoger que tipo de conversion desea realizar, de monedas o de temperatura
 
-- Funcionalidades de moneda:
+- :moneybag: Funcionalidades de moneda:
 
        - Funcionalidad 1: Escoger que tipo de moneda desea escoger
 
@@ -34,10 +34,13 @@ Como desafío extra solicitaron a añadir al proyecto otros tipos de conversione
 
        - Funcionalidad 3: Sacar la divisa y hacer la conversion a la moneda que se deseaba convertir
 
-- Funcionalidades de temperatura:
+- 🌡️ Funcionalidades de temperatura:
 
        - Funcionalidad 1: Escoger que tipo de temperatura desea escoger
 
        - Funcionalidad 2: Escoger a que tipo de temperatura desea convertir
 
        - Funcionalidad 3: Hacer la conversion a la temperatura que se deseaba convertir
+
+## 🎖 Resultado:
+
