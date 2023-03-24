@@ -44,3 +44,22 @@ Como desafío extra solicitaron a añadir al proyecto otros tipos de conversione
 
 ## 🎖 Resultado:
 
+- Menú: Puedes seleccionar que tipo de conversión deseas.
+![Fotos 24_3_2023 7_29_55 p  m  (2)](https://user-images.githubusercontent.com/119671283/227661708-142f073b-2625-4b3d-be7f-e6cdab87c0fa.png)
+
+- Cantidad: Debes ingresar la cantidad que deseas convertir
+
+- Selección: 
+
+       - Monedas: Seleccionar las moneda que deseas para realizar la conversión
+       
+       - Teperatura: Debes seleccionar las temperaturas que deseas para realizar la conversión
+       
+- Resultado: Muestra el resultado de la conversión realizada
+
+- Continuar: Seleccionar si desea o no realizar una nueva conversión
+
+- Fin del programa: En caso de no relizar una nueva conversión finaliza el porgrama
+
+
+
