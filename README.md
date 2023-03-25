@@ -45,15 +45,16 @@ Como desafío extra solicitaron a añadir al proyecto otros tipos de conversione
 ## 🎖 Resultado:
 
 - Menú: Puedes seleccionar que tipo de conversión deseas.
-![Fotos 24_3_2023 7_29_55 p  m  (2)](https://user-images.githubusercontent.com/119671283/227661708-142f073b-2625-4b3d-be7f-e6cdab87c0fa.png)
+![Fotos 24_3_2023 7_30_12 p  m  (2)](https://user-images.githubusercontent.com/119671283/227664338-91a0f62a-407d-4cf6-9b17-4d4693f28d3a.png)
 
 - Cantidad: Debes ingresar la cantidad que deseas convertir
- 
+![Fotos 24_3_2023 7_30_24 p  m  (2)](https://user-images.githubusercontent.com/119671283/227664302-e65ee28e-5919-4bbc-885a-f0e760e213d4.png)
+
 - Monedas: Seleccionar las moneda que deseas para realizar la conversión
 ![Fotos 24_3_2023 7_30_39 p  m  (2)](https://user-images.githubusercontent.com/119671283/227663848-a412aa5b-bf8a-43a9-88e3-d5c0ba8a0e4a.png)
 ![Fotos 24_3_2023 7_30_31 p  m  (2)](https://user-images.githubusercontent.com/119671283/227663873-2ea8e051-fde7-409d-bfca-7260421f8249.png)
 
-- Teperatura: Debes seleccionar las temperaturas que deseas para realizar la conversión
+- Temperatura: Debes seleccionar las temperaturas que deseas para realizar la conversión
 ![Fotos 24_3_2023 7_31_17 p  m  (2)](https://user-images.githubusercontent.com/119671283/227663938-e1b1a537-23a6-4466-b8dc-c612fd0c0d4e.png)
 ![Fotos 24_3_2023 7_31_24 p  m  (2)](https://user-images.githubusercontent.com/119671283/227663960-94df44d1-5b6c-49b0-a2ef-d9e433b588aa.png) 
       
